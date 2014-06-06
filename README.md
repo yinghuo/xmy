@@ -1,4 +1,4 @@
-xmy
+这是中文标题
 ===
-
-xmy
+This is  a test text
+这是一段中文测试！
